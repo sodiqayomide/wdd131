@@ -3,9 +3,13 @@
 }
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: "open sans" sans-serif;
     background-color: #f4f4f4;
     color: #222;
+}
+
+h1, h2 {
+    font-family: "Roboto", sans-serif;
 }
 
 header {
